@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there! I'm Nath 🐈‍💕.
 
-<!--
-**nathcarnevalli/nathcarnevalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a full stack developer
+- 📚 I’m currently learning Unreal Engine
+- 🐱 More about me: I love to learn new things, cats, watch movies/series and play games
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Three.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Unreal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="right" alt="Nath" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1065709988061909071/1065710066562502796/ezgif.com-gif-maker.gif?ex=66c63bd7&is=66c4ea57&hm=ab7caa3331d852229ff3e18e06e8fcc345c26063cfe6f03915ac28774b36a0da&">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+<div> 
+  <a href = "mailto:nathaliacarnevalli004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathalia-carnevalli-3566ba215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
