@@ -19,7 +19,7 @@
   <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Unreal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Nath" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1065709988061909071/1065710066562502796/ezgif.com-gif-maker.gif?ex=66c63bd7&is=66c4ea57&hm=ab7caa3331d852229ff3e18e06e8fcc345c26063cfe6f03915ac28774b36a0da&">
+  <img align="right" alt="Nath" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1065709988061909071/1065710066562502796/ezgif.com-gif-maker.gif?ex=66edc8d7&is=66ec7757&hm=8a5d6fcebb0dfedf04bb18f2027146d6fbb64434776f6771b3148e4142ba10da&=&width=450&height=450">
 </div>
 
  ##
